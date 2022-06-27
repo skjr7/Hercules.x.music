@@ -1,8 +1,8 @@
-<h2 align="centre"> ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀʏᴇʀ🔥</h2>
+<h2 align="centre"> Hercules x music🔥</h2>
 
-### ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### ʜᴇʀᴄᴜʟᴇs x ᴍᴜsɪᴄ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Superior_Bots"><img src="https://telegra.ph/file/c4e036012053c3eb85e80.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/mafiaking_fed"><img src="https://telegra.ph/file/d203eb28c9ed86e039d88.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -72,4 +72,4 @@ Fork Deploy is highly recommended
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/Superior_support"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Superior_bots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Friendstamilchatting"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/mafia_kings_queens"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
