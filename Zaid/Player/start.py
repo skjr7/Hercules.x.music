@@ -39,7 +39,7 @@ async def start_(client: Client, message: Message):
         caption=f"""**A Telegram Music Bot Based Mongodb.
  Add Me To Ur Chat For and Help and And Support Click On Buttons  ...
 💞  These Features A.I Based 
-Powered By [Suryaa Kumar](t.me/Suryaakumar) ...
+Powered By [Tamil Junction](t.me/Tamil_Junctions) ...
 **""",
     reply_markup=InlineKeyboardMarkup(
             [
@@ -58,7 +58,7 @@ Powered By [Suryaa Kumar](t.me/Suryaakumar) ...
                 ],
                 [
                     InlineKeyboardButton(
-                        "ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "CREATOR", url=f"https://t.me/Suryaakumar"
                     ),
                     InlineKeyboardButton(
                         "ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url=f"https://t.me/{GROUP_SUPPORT}"
